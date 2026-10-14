@@ -41,7 +41,7 @@
     "cli-progress": "^3.11.2",
     "commander": "^9.4.0",
     "csharp-binary-stream": "^1.0.3",
-    "image-type": "^5.1.0",
+    "image-type": "^6.1.0",
     "jszip": "^3.10.1",
     "lzma-purejs": "github:elderapo/lzma-purejs",
     "typescript-json-serializer": "^5.1.0"
